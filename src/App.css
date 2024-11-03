@@ -1,0 +1,8 @@
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  flex-direction: row-reverse;
+  gap: 16px;
+  justify-content: center
+}
